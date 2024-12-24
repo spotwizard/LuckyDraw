@@ -22,7 +22,8 @@
 
 1. 下載此代碼庫： 
    ```bash
-git clone https://github.com/spotwizard/LuckyDraw.git
+   git clone https://github.com/spotwizard/LuckyDraw.git
+   ```
 
 1. 打開 `index.html` 即可開始遊戲
 
