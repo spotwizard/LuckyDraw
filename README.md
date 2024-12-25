@@ -8,6 +8,10 @@
 - 隨機獲得獎勵和懲罰機制
 - RWD 支援行動裝置
 
+## Demo
+
+![範例網頁](https://spotwizard.github.io/LuckyDraw/)
+
 ## 技術架構
 
 - HTML5
